@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: bcc8c0e1700665e4f803ade959d06cb8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Booster_UI_cardback
+    21300002: Booster_UI_M3
+    21300004: Booster_UI_back_VIP
+    21300006: Booster_UI_reg
+    21300008: Booster_UI_R2
+    21300010: Booster_UI_lock
+    21300012: Booster_UI_R3
+    21300014: Booster_UI_HS
+    21300016: Booster_UI_FB
+    21300018: Booster_UI_HB
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Booster_UI_cardback
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 344
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_M3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 814
+        width: 312
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_back_VIP
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 577
+        width: 309
+        height: 446
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_reg
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 356
+        width: 258
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_R2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 248
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_lock
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 481
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_R3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_HS
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 226
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_FB
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 11
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Booster_UI_HB
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 80
+        width: 280
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

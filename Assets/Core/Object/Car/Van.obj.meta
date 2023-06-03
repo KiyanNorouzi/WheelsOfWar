@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: de093824ccd558c4c8b9263b9989eb56
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cadilak_wheel_LB2
+    100002: Cadilak_wheel_LB3
+    100004: Cadilak_wheel_LB4
+    100006: Cadilak_wheel_LB6
+    100008: Cadilak_wheel_LB7
+    100010: Cadilak_wheel_LB8
+    100012: polymsh
+    100014: polymsh14
+    100016: //RootNode
+    100018: Cadilak_wheel_LB008
+    100020: Cadilak_wheel_LB009
+    100022: Cadilak_wheel_LB010
+    100024: Cadilak_wheel_LB5
+    400000: Cadilak_wheel_LB2
+    400002: Cadilak_wheel_LB3
+    400004: Cadilak_wheel_LB4
+    400006: Cadilak_wheel_LB6
+    400008: Cadilak_wheel_LB7
+    400010: Cadilak_wheel_LB8
+    400012: polymsh
+    400014: polymsh14
+    400016: //RootNode
+    400018: Cadilak_wheel_LB008
+    400020: Cadilak_wheel_LB009
+    400022: Cadilak_wheel_LB010
+    400024: Cadilak_wheel_LB5
+    2300000: Cadilak_wheel_LB2
+    2300002: Cadilak_wheel_LB3
+    2300004: Cadilak_wheel_LB4
+    2300006: Cadilak_wheel_LB6
+    2300008: Cadilak_wheel_LB7
+    2300010: Cadilak_wheel_LB8
+    2300012: polymsh
+    2300014: polymsh14
+    2300016: Cadilak_wheel_LB008
+    2300018: Cadilak_wheel_LB009
+    2300020: Cadilak_wheel_LB010
+    2300022: Cadilak_wheel_LB5
+    3300000: Cadilak_wheel_LB2
+    3300002: Cadilak_wheel_LB3
+    3300004: Cadilak_wheel_LB4
+    3300006: Cadilak_wheel_LB6
+    3300008: Cadilak_wheel_LB7
+    3300010: Cadilak_wheel_LB8
+    3300012: polymsh
+    3300014: polymsh14
+    3300016: Cadilak_wheel_LB008
+    3300018: Cadilak_wheel_LB009
+    3300020: Cadilak_wheel_LB010
+    3300022: Cadilak_wheel_LB5
+    4300000: Cadilak_wheel_LB2
+    4300002: Cadilak_wheel_LB3
+    4300004: Cadilak_wheel_LB4
+    4300006: Cadilak_wheel_LB6
+    4300008: Cadilak_wheel_LB7
+    4300010: Cadilak_wheel_LB8
+    4300012: polymsh
+    4300014: polymsh14
+    4300016: Cadilak_wheel_LB008
+    4300018: Cadilak_wheel_LB009
+    4300020: Cadilak_wheel_LB010
+    4300022: Cadilak_wheel_LB5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0599999987
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

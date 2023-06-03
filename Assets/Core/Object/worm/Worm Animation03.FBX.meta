@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 4f92ad43c2737b04d875d04627ff07dc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Line001
+    100002: Object001
+    100004: Object002
+    100006: Object003
+    100008: Object004
+    100010: Object005
+    100012: Object006
+    100014: Object007
+    100016: Object008
+    100018: Object009
+    100020: Object010
+    100022: Object011
+    100024: Object012
+    100026: Object013
+    100028: Point001
+    100030: Point002
+    100032: Point003
+    100034: Point004
+    100036: Point005
+    100038: Point006
+    100040: Point007
+    100042: //RootNode
+    100044: Worm_Part
+    100046: Worm_Part1
+    100048: Worm_Part2
+    100050: Worm_Part3
+    100052: Worm_Part4
+    100054: Worm_Part5
+    100056: Worm_Body
+    100058: Worm_Joints00
+    100060: Worm_Joints01
+    100062: Worm_Joints02
+    100064: Worm_Joints03
+    100066: Worm_Joints04
+    100068: Worm_Joints05
+    100070: Worm_Joints06
+    100072: Worm_Line001
+    100074: Worm_Point00
+    100076: Worm_Point01
+    100078: Worm_Point02
+    100080: Worm_Point03
+    100082: Worm_Point04
+    100084: Worm_Point05
+    100086: Worm_Point06
+    400000: Line001
+    400002: Object001
+    400004: Object002
+    400006: Object003
+    400008: Object004
+    400010: Object005
+    400012: Object006
+    400014: Object007
+    400016: Object008
+    400018: Object009
+    400020: Object010
+    400022: Object011
+    400024: Object012
+    400026: Object013
+    400028: Point001
+    400030: Point002
+    400032: Point003
+    400034: Point004
+    400036: Point005
+    400038: Point006
+    400040: Point007
+    400042: //RootNode
+    400044: Worm_Part
+    400046: Worm_Part1
+    400048: Worm_Part2
+    400050: Worm_Part3
+    400052: Worm_Part4
+    400054: Worm_Part5
+    400056: Worm_Body
+    400058: Worm_Joints00
+    400060: Worm_Joints01
+    400062: Worm_Joints02
+    400064: Worm_Joints03
+    400066: Worm_Joints04
+    400068: Worm_Joints05
+    400070: Worm_Joints06
+    400072: Worm_Line001
+    400074: Worm_Point00
+    400076: Worm_Point01
+    400078: Worm_Point02
+    400080: Worm_Point03
+    400082: Worm_Point04
+    400084: Worm_Point05
+    400086: Worm_Point06
+    2300000: Object001
+    2300002: Object002
+    2300004: Object003
+    2300006: Object004
+    2300008: Object005
+    2300010: Object006
+    2300012: Object007
+    2300014: Object008
+    2300016: Object009
+    2300018: Object010
+    2300020: Object011
+    2300022: Object012
+    2300024: Object013
+    3300000: Object001
+    3300002: Object002
+    3300004: Object003
+    3300006: Object004
+    3300008: Object005
+    3300010: Object006
+    3300012: Object007
+    3300014: Object008
+    3300016: Object009
+    3300018: Object010
+    3300020: Object011
+    3300022: Object012
+    3300024: Object013
+    4300000: Object007
+    4300002: Object012
+    4300004: Object011
+    4300006: Object010
+    4300008: Object009
+    4300010: Object008
+    4300012: Object006
+    4300014: Object013
+    4300016: Object004
+    4300018: Object003
+    4300020: Object001
+    4300022: Object002
+    4300024: Object005
+    4300026: Worm_Part5
+    4300028: Worm_Part4
+    4300030: Worm_Part3
+    4300032: Worm_Part2
+    4300034: Worm_Part1
+    4300036: Worm_Part
+    4300038: Worm_Body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Worm_Part
+    13700002: Worm_Part1
+    13700004: Worm_Part2
+    13700006: Worm_Part3
+    13700008: Worm_Part4
+    13700010: Worm_Part5
+    13700012: Worm_Body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: _TrainReachedEndOfThePath
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 46ef7c25b6af6584baeee09832815281,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Worm_Body
+        weight: 1
+      - path: Worm_Line001
+        weight: 1
+      - path: Worm_Point00
+        weight: 1
+      - path: Worm_Point00/Worm_Joints00
+        weight: 1
+      - path: Worm_Point00/Worm_Joints01
+        weight: 1
+      - path: Worm_Point00/Worm_Joints02
+        weight: 1
+      - path: Worm_Point00/Worm_Joints03
+        weight: 1
+      - path: Worm_Point00/Worm_Joints04
+        weight: 1
+      - path: Worm_Point00/Worm_Joints05
+        weight: 1
+      - path: Worm_Point00/Worm_Joints06
+        weight: 1
+      - path: Worm_Point01
+        weight: 1
+      - path: Worm_Point02
+        weight: 1
+      - path: Worm_Point03
+        weight: 1
+      - path: Worm_Point04
+        weight: 1
+      - path: Worm_Point05
+        weight: 1
+      - path: Worm_Point06
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.29999995
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

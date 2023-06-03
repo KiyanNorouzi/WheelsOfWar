@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/video_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="visible" >
+
+        <VideoView
+            android:id="@+id/video"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+
+        <ir.tapsell.tapselldevelopersdk.styledview.DonutProgress
+            android:id="@+id/donut_progress"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dip"
+            app:donut_finished_color="#ffa500"
+            app:donut_finished_stroke_width="3dip"
+            app:donut_text_color="#ffa500"
+            app:donut_text_size="12sp"
+            app:donut_unfinished_stroke_width="3dip" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/goto_url_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/tapcoinicon1"/>
+
+        <ImageButton
+            android:id="@+id/close"
+            android:layout_margin="3dip"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:src="@drawable/close_btn" />
+    </RelativeLayout>
+
+</RelativeLayout>

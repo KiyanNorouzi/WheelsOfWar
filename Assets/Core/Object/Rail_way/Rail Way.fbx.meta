@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: 5468d089d0601d44b88bff7b590e8c3f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bridge_Stoper
+    100002: Fance_Sign
+    100004: Ground
+    100006: Mountain
+    100008: Plant_RAILGuard
+    100010: Plant_RAILGuard_MeshPart0
+    100012: Plant_RAILGuard_MeshPart1
+    100014: //RootNode
+    100016: Rail_Bridge
+    100018: Tunnel__Sign
+    100020: Wagon
+    400000: Bridge_Stoper
+    400002: Fance_Sign
+    400004: Ground
+    400006: Mountain
+    400008: Plant_RAILGuard
+    400010: Plant_RAILGuard_MeshPart0
+    400012: Plant_RAILGuard_MeshPart1
+    400014: //RootNode
+    400016: Rail_Bridge
+    400018: Tunnel__Sign
+    400020: Wagon
+    2300000: Bridge_Stoper
+    2300002: Fance_Sign
+    2300004: Ground
+    2300006: Mountain
+    2300008: Plant_RAILGuard_MeshPart0
+    2300010: Plant_RAILGuard_MeshPart1
+    2300012: Rail_Bridge
+    2300014: Tunnel__Sign
+    2300016: Wagon
+    3300000: Bridge_Stoper
+    3300002: Fance_Sign
+    3300004: Ground
+    3300006: Mountain
+    3300008: Plant_RAILGuard_MeshPart0
+    3300010: Plant_RAILGuard_MeshPart1
+    3300012: Rail_Bridge
+    3300014: Tunnel__Sign
+    3300016: Wagon
+    4300000: Ground
+    4300002: Bridge_Stoper
+    4300004: Wagon
+    4300006: Mountain
+    4300008: Rail_Bridge
+    4300010: Fance_Sign
+    4300012: Tunnel__Sign
+    4300014: Plant_RAILGuard_MeshPart0
+    4300016: Plant_RAILGuard_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 0d1c822528074ba4a9429e7371d36f93
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Fence
+    100002: Ground
+    100004: Junk
+    100006: Junk_MeshPart0
+    100008: Junk_MeshPart1
+    100010: Mountain
+    100012: Parvaneh
+    100014: Parvaneh1
+    100016: //RootNode
+    100018: Spawn_point
+    100020: Tower
+    100022: Junk_MeshPart2
+    400000: Fence
+    400002: Ground
+    400004: Junk
+    400006: Junk_MeshPart0
+    400008: Junk_MeshPart1
+    400010: Mountain
+    400012: Parvaneh
+    400014: Parvaneh1
+    400016: //RootNode
+    400018: Spawn_point
+    400020: Tower
+    400022: Junk_MeshPart2
+    2300000: Fence
+    2300002: Ground
+    2300004: Junk_MeshPart0
+    2300006: Junk_MeshPart1
+    2300008: Mountain
+    2300010: Parvaneh
+    2300012: Parvaneh1
+    2300014: Spawn_point
+    2300016: Tower
+    2300018: Junk_MeshPart2
+    3300000: Fence
+    3300002: Ground
+    3300004: Junk_MeshPart0
+    3300006: Junk_MeshPart1
+    3300008: Mountain
+    3300010: Parvaneh
+    3300012: Parvaneh1
+    3300014: Spawn_point
+    3300016: Tower
+    3300018: Junk_MeshPart2
+    4300000: Parvaneh
+    4300002: Ground
+    4300004: Tower
+    4300006: Mountain
+    4300008: Fence
+    4300010: Spawn_point
+    4300012: Junk_MeshPart0
+    4300014: Junk_MeshPart1
+    4300016: Parvaneh1
+    4300018: Junk_MeshPart2
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 08255df14430165428b7a01c5b540b3a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shadow One_Pine
+    21300002: Shadow One_Bulk
+    21300004: Shadow One_Sign
+    21300006: Shadow One_Hazzard
+    21300008: Shadow One_Stop
+    21300010: Shadow One_Fance
+    21300012: Shadow One_Pole
+    21300014: Shadow One_Guard Rail
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shadow One_Pine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 292
+        height: 604
+      alignment: 9
+      pivot: {x: .477606326, y: .0821133032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Bulk
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 777
+        width: 527
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Sign
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 152
+        height: 317
+      alignment: 9
+      pivot: {x: .474188298, y: .116326511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Hazzard
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 340
+        width: 148
+        height: 423
+      alignment: 9
+      pivot: {x: .5, y: .0671615452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Stop
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 339
+        width: 175
+        height: 440
+      alignment: 9
+      pivot: {x: .4402152, y: .0541623197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Fance
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 197
+        width: 373
+        height: 409
+      alignment: 9
+      pivot: {x: .766466737, y: .119493738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Pole
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 610
+        width: 105
+        height: 414
+      alignment: 9
+      pivot: {x: .524910212, y: .0672287494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow One_Guard Rail
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 655
+        height: 182
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

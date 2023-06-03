@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 5a78f288b8c852848af2ed7746190be0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MINE:aoe
+    100004: MINE:MINE_ncl1_1
+    100006: MINE:Mine_RIG
+    100008: MINE:Round
+    100010: MINE:Sign
+    400000: //RootNode
+    400002: MINE:aoe
+    400004: MINE:MINE_ncl1_1
+    400006: MINE:Mine_RIG
+    400008: MINE:Round
+    400010: MINE:Sign
+    2300000: MINE:MINE_ncl1_1
+    2300002: MINE:aoe
+    3300000: MINE:MINE_ncl1_1
+    3300002: MINE:aoe
+    4300000: MINE:aoe
+    4300002: MINE:MINE_ncl1_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: MINE:aoe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MINE:aoe
+        weight: 1
+      - path: MINE:MINE_ncl1_1
+        weight: 1
+      - path: MINE:Mine_RIG
+        weight: 1
+      - path: MINE:Mine_RIG/MINE:Round
+        weight: 1
+      - path: MINE:Mine_RIG/MINE:Sign
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,34 @@
+# XSI Wavefront OBJ Export v3.0
+# File Created: Sun Jan 17 17:12:25 2016
+# XSI Version: 10.0.422.0
+mtllib Rocket fire.mtl
+
+o Rocket_fire
+# Hierarchy (from self to top father)
+g Rocket_fire
+
+#begin 4 vertices
+v -4.000000 4.000000 -0.000000
+v -4.000000 -4.000000 0.000000
+v 4.000000 4.000000 -0.000000
+v 4.000000 -4.000000 0.000000
+#end 4 vertices
+
+#begin 4 normals
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+#end 4 vertex normals
+
+#begin texture vertices
+vt 0.006339 0.656521 0.000000
+vt 0.006339 0.362317 0.000000
+vt 0.300543 0.656521 0.000000
+vt 0.300543 0.362317 0.000000
+#end 4 texture vertices
+
+#begin 1 faces
+usemtl material
+f 1/1/1 2/2/2 4/4/3 3/3/4 
+#end 1 faces

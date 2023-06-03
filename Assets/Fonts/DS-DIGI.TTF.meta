@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74b1997fcd3c1c1449d40b950c4672aa
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 80
+  forceTextureCase: 3
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: 0123456789+-$,:'"Xx./LEV SCOR
+  fontRenderingMode: 0
+  userData: 

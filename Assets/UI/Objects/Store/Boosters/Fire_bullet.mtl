@@ -1,0 +1,16 @@
+newmtl _11
+Ka 0.100000 0.100000 0.100000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 20.000000
+Tr 0.000000
+illum 0
+map_Kd D:\Project\War_machine\3d_M_A\War_mashin\Pictures\BOOSTERS\BOOSTERS.psd
+newmtl _12
+Ka 0.100000 0.100000 0.100000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 20.000000
+Tr 0.000000
+illum 0
+map_Kd D:\Project\War_machine\3d_M_A\War_mashin\Pictures\BOOSTERS\BOOSTERS.psd

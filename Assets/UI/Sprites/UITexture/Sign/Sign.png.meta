@@ -1,0 +1,1655 @@
+fileFormatVersion: 2
+guid: cc32311b173881041bbf10de569e1a05
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sign_Volex_Guard_Right_03
+    21300002: Sign_Volex_Guard_Front_03
+    21300004: Sign_Volex_Guard_Front_02
+    21300006: Sign_Volex_Guard_Front_01
+    21300008: Sign_Volex_Guard_Front_04
+    21300010: Sign_Volex_Guard_Left_03
+    21300012: Sign_Volex_Guard_Left_01
+    21300014: Volex_Guard_Left_02
+    21300016: Sign_Volex_Guard_Back_03
+    21300018: Sign_Volex_Guard_Back_02
+    21300020: Sign_Volex_Guard_Back_01
+    21300022: Sign_Volex_Guard_Top_03
+    21300024: Sign_Volex_Guard_Top_02
+    21300026: Sign_Volex_Guard_Top_01
+    21300028: Sign_Volex_Guard_Right_01
+    21300030: Sign_Volex_Guard_Right_02
+    21300032: Sign_Volex_Guard_Front_D
+    21300034: Sign_Peykan_Wheel_01
+    21300036: Sign_Volex_Wheel_03
+    21300038: Sign_Volex_Wheel_01
+    21300040: Sign_Peykan_Guard_Back_Default
+    21300042: Sign_Peykan_Guard_Back_03
+    21300044: Sign_Peykan_Guard_Back_02
+    21300046: Sign_Peykan_Guard_Back_01
+    21300048: Sign_Peykan_Guard_Top_02
+    21300050: Sign_Peykan_Guard_top_01
+    21300052: Sign_Peykan_Guard_Right_01
+    21300054: Sign_Peykan_Guard_Front_Default
+    21300056: Sign_Peykan_Guard_Front_03
+    21300058: Sign_Peykan_Guard_Front_02
+    21300060: Sign_Peykan_Guard_Front_01
+    21300062: Sign_Peykan_Guard_Left_02
+    21300064: Sign_Peykan_Guard_Left_01
+    21300066: Sign_Peykan_Guard_Right_02
+    21300068: Sign_Van_Guard_Right_Def
+    21300070: Sign_Peykan_Wheel_02
+    21300072: Sign_Van_Wheel_Def
+    21300074: Sign_Peykan_Guard_Left_Def
+    21300076: Sign_Nissan_Guard_Back_01
+    21300078: Sign_Van_Guard_Top_02
+    21300080: Sign_Van_Guard_Top_03
+    21300082: Sign_Van_Guard_Right_03
+    21300084: Sign_Van_Guard_Right_02
+    21300086: Sign_Van_Guard_Right_01
+    21300088: Sign_Van_Guard_Left_03
+    21300090: Sign_Van_Guard_Left_02
+    21300092: Sign_Van_Guard_Left_01
+    21300094: Sign_Van_Guard_Front_03
+    21300096: Sign_Van_Guard_Front_02
+    21300098: Sign_Van_Guard_Front_01
+    21300100: Sign_Van_Guard_Back_03
+    21300102: Sign_Van_Guard_Back_02
+    21300104: Sign_Van_Guard_Back_01
+    21300106: Sign_Van_Guard_Back_Def
+    21300108: Sign_Van_Wheel_03
+    21300110: Sign_Van_Wheel_02
+    21300112: Sign_Van_Wheel_01
+    21300114: Sign_Nissan_Guard_Back_03
+    21300116: Sign_Nissan_Guard_Back_02
+    21300118: Sign_Nissan_Guard_Top_03
+    21300120: Sign_Nissan_Guard_Top_02
+    21300122: Sign_Nissan_Guard_top_01
+    21300124: Sign_Nissan_Guard_Left_01
+    21300126: Sign_Nissan_Guard_Left_02
+    21300128: Sign_Nissan_Guard_Left_03
+    21300130: Sign_Nissan_Guard_Front_03
+    21300132: Sign_Nissan_Guard_Front_02
+    21300134: Sign_Nissan_Guard_Front_01
+    21300136: Sign_Nissan_Guard_Right_03
+    21300138: Sign_Nissan_Guard_Right_02
+    21300140: Sign_Nissan_Guard_Right_01
+    21300142: Sign_Van_Guard_Left_Def
+    21300144: Sign_Nissan_Tire_03
+    21300146: Sign_Nissan_Tire_02
+    21300148: Sign_Nissan_Tire_01
+    21300150: Sign_Cadilak_Guard_Back_01
+    21300152: Sign_Cadilak_Guard_Back_02
+    21300154: Sign_Cadilak_Guard_Back_03
+    21300156: Sign_Cadilak_Guard_Front_01
+    21300158: Sign_Cadilak_Guard_Front_02
+    21300160: Sign_Cadilak_Guard_Front_03
+    21300162: Sign_Cadilak_Guard_Left_01
+    21300164: Sign_Cadilak_Guard_Left_02
+    21300166: Sign_Cadilak_Guard_Left_03
+    21300168: Sign_Cadilak_Guard_Right_01
+    21300170: Sign_Cadilak_Guard_Right_02
+    21300172: Sign_Cadilak_Guard_Right_03
+    21300174: Sign_Cadilak_Guard_Top_01
+    21300176: Sign_Cadilak_Guard_Top_02
+    21300178: Sign_Cadilak_Guard_Top_03
+    21300180: Sign_Nissan_Guard_Back_D
+    21300182: Sign_Cadilak_Wheel_01
+    21300184: Sign_Cadilak_Wheel_02
+    21300186: Sign_RD_Guard_Back_01
+    21300188: Sign_RD_Guard_Back_02
+    21300190: Sign_RD_Guard_Back_03
+    21300192: Sign_RD_Guard_Front_02
+    21300194: Sign_RD_Guard_Front_01
+    21300196: Sign_RD_Guard_Front_03
+    21300198: Sign_RD_Guard_Left_01
+    21300200: Sign_RD_Guard_Left_02
+    21300202: Sign_RD_Guard_Left_03
+    21300204: Sign_RD_Guard_Right_01
+    21300206: Sign_RD_Guard_Right_02
+    21300208: Sign_RD_Guard_Right_03
+    21300210: Sign_RD_Guard_Top_01
+    21300212: Sign_RD_Guard_Top_02
+    21300214: Sign_RD_Wheel_03
+    21300216: Sign_RD_Wheel_02
+    21300218: Sign_RD_Wheel_01
+    21300220: Sign_Sign_RD_Null
+    21300222: Sign_Peykan_Wheel_D
+    21300224: Volex_Guard_Left_D
+    21300226: Sign_Volex_Guard_Right_D
+    21300228: Sign_Volex_Guard_Back_04
+    21300230: Sign_Volex_Guard_Back_D
+    21300232: Sign_Volex_Guard_Top_D
+    21300234: Sign_Peykan_Guard_Top_Def
+    21300236: Sign_Peykan_Guard_Right_Def
+    21300238: Sign_Van_Guard_Top_01
+    21300240: Sign_Peykan_Wheel_01
+    21300242: Sign_Volex_Wheel_02
+    21300244: Sign_Cadilak_Wheel_D
+    21300246: Sign_Nissan_Tire_D
+    21300248: Sign_Nissan_Guard_Front_D
+    21300250: Sign_Nissan_Guard_Top_D
+    21300252: Sign_Nissan_Guard_Left_D
+    21300254: Sign_Nissan_Guard_Right_D
+    21300256: Sign_Cadilak_Guard_Back_D
+    21300258: Sign_Cadilak_Guard_Front_D
+    21300260: Sign_Cadilak_Guard_Left_D
+    21300262: Sign_Cadilak_Guard_Right_D
+    21300264: Sign_Cadilak_Guard_Top_D
+    21300266: Sign_RD_Wheel_D
+    21300268: Sign_RD_Guard_Back_D
+    21300270: Sign_RD_Guard_Front_D
+    21300272: Sign_RD_Guard_Left_D
+    21300274: Sign_RD_Guard_Right_D
+    21300276: Sign_RD_Guard_Top_D
+    21300278: Sign_Volex_Guard_Left_D
+    21300280: Sign_Van_Guard_Front_D
+    21300282: CHR_BARBOD
+    21300284: CHR_LENNY
+    21300286: CHR_SHIGEO
+    21300288: CHR_ROSALINA
+    21300290: CHR_SANCHES
+    21300292: CHR_LUTHER
+    21300294: Sign_Van_Guard_Top_D
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sign_Volex_Guard_Right_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Front_04
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Left_03
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Volex_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Top_03
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Top_01
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1954
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Front_D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Wheel_01
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Wheel_03
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Wheel_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Back_Default
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_top_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Front_Default
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Right_Def
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Wheel_02
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Wheel_Def
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Left_Def
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1856
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Top_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Right_03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Left_03
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Back_Def
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Wheel_03
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Wheel_02
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Wheel_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1660
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Top_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_top_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Left_03
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Right_03
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Left_Def
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1562
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Tire_03
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Tire_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Tire_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Left_03
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Right_03
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Top_01
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Top_03
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Back_D
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1464
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Wheel_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Wheel_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Back_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Back_02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Back_03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Front_02
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Front_01
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Front_03
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Left_01
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Left_02
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Left_03
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Right_01
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Right_02
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Right_03
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Top_01
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Top_02
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Wheel_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Wheel_02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Wheel_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Wheel_D
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Volex_Guard_Left_D
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Right_D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Back_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Back_D
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Top_D
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Top_Def
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Peykan_Guard_Right_Def
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Top_01
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Wheel_02
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1758
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Tire_D
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Front_D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Top_D
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Left_D
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Nissan_Guard_Right_D
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1268
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Wheel_D
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Back_D
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Front_D
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Left_D
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Right_D
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Cadilak_Guard_Top_D
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Wheel_D
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1268
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Back_D
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Front_D
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Left_D
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Right_D
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_RD_Guard_Top_D
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1366
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Volex_Guard_Left_D
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1758
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Front_D
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1758
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_BARBOD
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 386
+        height: 658
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_LENNY
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 389
+        height: 662
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_SHIGEO
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 348
+        height: 660
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_ROSALINA
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 332
+        height: 660
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_SANCHES
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 441
+        height: 656
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHR_LUTHER
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 662
+        width: 344
+        height: 529
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sign_Van_Guard_Top_D
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1170
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
